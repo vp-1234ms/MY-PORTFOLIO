@@ -87,8 +87,8 @@ section{
   width: 35vw;
   border-radius: 50%;
   animation: floatImage 4s ease-in-out infinite;
-  border: .2rem solid var(--main-color);
-  box-shadow : 0 0 5rem var(--main-color);
+  border: .5rem solid var(--main-color);
+  box-shadow : 0 0 8rem var(--main-color);
 }
 
 @keyframes floatImage {
