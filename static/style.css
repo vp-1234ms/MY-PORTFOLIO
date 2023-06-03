@@ -86,8 +86,6 @@ section{
 .home-img img{
   width: 35vw;
   border-radius: 5rem;
-  box-shadow: 0 0 1rem var(--main-color);
-  
   animation: floatImage 4s ease-in-out infinite;
 }
 
